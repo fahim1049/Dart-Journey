@@ -1,3 +1,6 @@
 void main(){
-  print('First dart Program');
+  var a = 30;
+  var b= 40;
+  var sum = a + b;
+  print(sum);
 }
